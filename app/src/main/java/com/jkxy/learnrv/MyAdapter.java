@@ -24,6 +24,7 @@ class MyAdapter extends RecyclerView.Adapter {
         books.add(new Book("三国演义", "这也是一本好书"));
         books.add(new Book("红楼梦", "我很喜欢看"));
         books.add(new Book("水浒传", "这本书我看了3遍"));
+        books.add(new Book("薛仁贵", "很好看"));
 
     }
 
